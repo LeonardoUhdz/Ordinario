@@ -1,0 +1,10 @@
+C:\Users\castr\Desktop\6to Semestre\Computación\Visual Studio\Examen ordinario primera vuelta\bin\Debug\Examen ordinario primera vuelta.exe.config
+C:\Users\castr\Desktop\6to Semestre\Computación\Visual Studio\Examen ordinario primera vuelta\bin\Debug\Examen ordinario primera vuelta.exe
+C:\Users\castr\Desktop\6to Semestre\Computación\Visual Studio\Examen ordinario primera vuelta\bin\Debug\Examen ordinario primera vuelta.pdb
+C:\Users\castr\Desktop\6to Semestre\Computación\Visual Studio\Examen ordinario primera vuelta\obj\Debug\Examen ordinario primera vuelta.csproj.AssemblyReference.cache
+C:\Users\castr\Desktop\6to Semestre\Computación\Visual Studio\Examen ordinario primera vuelta\obj\Debug\Examen_ordinario_primera_vuelta.Form1.resources
+C:\Users\castr\Desktop\6to Semestre\Computación\Visual Studio\Examen ordinario primera vuelta\obj\Debug\Examen_ordinario_primera_vuelta.Properties.Resources.resources
+C:\Users\castr\Desktop\6to Semestre\Computación\Visual Studio\Examen ordinario primera vuelta\obj\Debug\Examen ordinario primera vuelta.csproj.GenerateResource.cache
+C:\Users\castr\Desktop\6to Semestre\Computación\Visual Studio\Examen ordinario primera vuelta\obj\Debug\Examen ordinario primera vuelta.csproj.CoreCompileInputs.cache
+C:\Users\castr\Desktop\6to Semestre\Computación\Visual Studio\Examen ordinario primera vuelta\obj\Debug\Examen ordinario primera vuelta.exe
+C:\Users\castr\Desktop\6to Semestre\Computación\Visual Studio\Examen ordinario primera vuelta\obj\Debug\Examen ordinario primera vuelta.pdb
